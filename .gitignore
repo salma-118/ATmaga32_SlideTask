@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build output
+**/bin/
+**/obj/
+
+# Arduino build output
+**/build/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
